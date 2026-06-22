@@ -1,0 +1,192 @@
+{
+    "profile": {
+        "name": "Marcelo",
+        "email": "contato@marcelodev.com.br",
+        "phone": "+55 (24) 98122-2010",
+        "whatsappUrl": "https://wa.me/5524981222010",
+        "linkedinUrl": "https://linkedin.com/in/marcelo-s-correa/",
+        "githubUrl": "https://github.com/marcelo-s-correa",
+        "heroImage": "./image.png"
+    },
+    "hero": {
+        "badge": "Disponível para Projetos & Consultoria",
+        "titlePrefix": "Desenvolvedor Full Stack que constrói",
+        "titleHighlight": "soluções escaláveis",
+        "titleSuffix": "e negócios digitais.",
+        "subtitle": "Combinando engenharia de software de ponta com visão estratégica de negócios (MBA USP). Transformo gargalos operacionais em arquiteturas de alta performance para empresas que buscam liderança.",
+        "stats": [
+            {
+                "value": "+6",
+                "label": "Anos de Experiência"
+            },
+            {
+                "value": "99.8%",
+                "label": "Uptime em Produção"
+            },
+            {
+                "value": "MBA",
+                "label": "Gestão de Projetos (USP)"
+            }
+        ]
+    },
+    "experiences": [
+        {
+            "company": "Vigortech",
+            "site": "vigortech.io",
+            "url": "https://vigortech.io",
+            "badge": "Desenvolvimento terceirizado",
+            "badgeColor": "blue",
+            "position": "Desenvolvedor Full Stack & Arquitetura",
+            "description": "Liderança técnica na conceção e desenvolvimento de ecossistemas escaláveis voltados para alta performance e disponibilidade contínua.",
+            "impact": "Implementação de diversos produtos para variadas empresas da região sul fluminense e todo o Brasil, com destaque para o sistema de cargas WebCol",
+            "techs": [
+                "Node JS",
+                "React JS / Native",
+                "Docker",
+                "AWS"
+            ]
+        },
+        {
+            "company": "Vexsoft",
+            "site": "vexsoft.com.br",
+            "url": "https://vexsoft.com.br",
+            "badge": "Desenvolvimento interno",
+            "badgeColor": "indigo",
+            "position": "Desenvolvedor Frontend & Mobile",
+            "description": "Construção de aplicações voltadas para vistorias e logística de frotas, atuando diretamente na experiência do utilizador em campo.",
+            "impact": "Entrega do sonho da empresa, a aplicação IOs do App Vexsoft, soluções em checklists e relatórios de vistoria, aumentando a satisfação dos clientes e a eficiência operacional dos vistoriadores.",
+            "techs": [
+                "Java",
+                "React Native",
+                "Vue JS"
+            ]
+        },
+        {
+            "company": "Nossa Senhora das Dores",
+            "site": "pnsd.com.br",
+            "url": "https://pnsd.com.br",
+            "badge": "Co-fundador & CTO",
+            "badgeColor": "violet",
+            "position": "Co-fundador & CTO",
+            "description": "Construção de todo ecossistema tecnologico da plataforma, estruturação do negócio e liderança da equipe tecnica",
+            "impact": "Disponibilização da primeira plataforma de intermediação entre psicólogos e pacientes católicos do Brasil.",
+            "techs": [
+                "NEXT JS",
+                "Node.js",
+                "PostgreSQL"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "type": "Graduação Superior",
+            "course": "Sistemas de Informação",
+            "institution": "UGB FERP",
+            "color": "violet",
+            "topics": [
+                "Algoritmos e Estruturas de Dados",
+                "Engenharia de Software e Banco de Dados",
+                "Arquitetura de Redes e Sistemas Operacionais"
+            ]
+        },
+        {
+            "type": "Pós-Graduação",
+            "course": "MBA em Gestão de Projetos",
+            "institution": "USP ESALQ",
+            "color": "blue",
+            "topics": [
+                "Gestão de escopo, prazos e custos",
+                "Liderança e resolução de conflitos",
+                "Metodologias Ágeis em escala"
+            ]
+        }
+    ],
+    "skills": {
+        "core": [
+            {
+                "name": "React JS",
+                "color": "bg-cyan-500"
+            },
+            {
+                "name": "React Native",
+                "color": "bg-blue-500"
+            },
+            {
+                "name": "Node.js",
+                "color": "bg-emerald-500"
+            },
+            {
+                "name": "Java",
+                "color": "bg-orange-500"
+            },
+            {
+                "name": "Kotlin",
+                "color": "bg-purple-500"
+            },
+            {
+                "name": "C# (.NET)",
+                "color": "bg-violet-500"
+            }
+        ],
+        "specialties": [
+            {
+                "title": "Web de Alta Conversão",
+                "desc": "SPAs, SSG, SEO e Core Web Vitals"
+            },
+            {
+                "title": "Sistemas Backend",
+                "desc": "APIs RESTful, Microsserviços e Filas"
+            },
+            {
+                "title": "Mobile Nativo/Híbrido",
+                "desc": "iOS & Android com performance nativa"
+            },
+            {
+                "title": "Infraestrutura & Cloud",
+                "desc": "Docker, CI/CD, AWS e Serverless"
+            }
+        ],
+        "management": [
+            {
+                "icon": "briefcase",
+                "color": "blue",
+                "title": "Liderança Técnica",
+                "desc": "Capacidade de guiar programadores juniores/plenos, definindo padrões de código e code reviews rigorosos."
+            },
+            {
+                "icon": "shield-check",
+                "color": "violet",
+                "title": "Gestão de Projetos",
+                "desc": "Mapeamento de viabilidade, definição de etapas e blindagem da equipa de engenharia contra escopos ruidosos."
+            },
+            {
+                "icon": "sparkles",
+                "color": "emerald",
+                "title": "Metodologias Ágeis",
+                "desc": "Aplicação prática de Scrum e Kanban focada em cadência de entrega contínua de valor real."
+            },
+            {
+                "icon": "layout",
+                "color": "amber",
+                "title": "Cultura UI/UX",
+                "desc": "Olhar clínico para o design system. O software precisa de ser tecnicamente invulnerável e visualmente impecável."
+            }
+        ]
+    },
+    "projects": [
+        {
+            "tag": "Sistemas Core / Fintech",
+            "scale": "Escala de 10k+ req/s",
+            "title": "Reestruturação do Motor de Cobranças Institucional",
+            "challenge": "O sistema legado gerava timeouts recorrentes no pico do dia 5 de cada mês, travando a faturação e gerando chamados de suporte.",
+            "solution": "Desacoplamento da faturação em microsserviços assíncronos (Java/RabbitMQ) e reescrita do painel do operador em React JS.",
+            "impact": "Zero timeouts registados nos últimos 14 meses e redução de 82% no volume de tickets abertos no setor financeiro.",
+            "techs": [
+                "Java",
+                "RabbitMQ",
+                "React"
+            ],
+            "nda": true
+        }
+    ]
+}
