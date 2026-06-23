@@ -175,16 +175,85 @@
     },
     "projects": [
         {
-            "tag": "Sistemas Core / Fintech",
-            "scale": "Escala de 10k+ req/s",
-            "title": "Reestruturação do Motor de Cobranças Institucional",
-            "challenge": "O sistema legado gerava timeouts recorrentes no pico do dia 5 de cada mês, travando a faturação e gerando chamados de suporte.",
-            "solution": "Desacoplamento da faturação em microsserviços assíncronos (Java/RabbitMQ) e reescrita do painel do operador em React JS.",
-            "impact": "Zero timeouts registados nos últimos 14 meses e redução de 82% no volume de tickets abertos no setor financeiro.",
+            "tag": "Sistema WebCol",
+            "scale": "Participação em todos os modulos",
+            "title": "Desenvolvimento do sistema de gerenciamento de carga e frotas WebCol",
+            "challenge": "Implementação dos modulos de nota fiscal, rastreamento, agendamento.",
+            "solution": "Aplicação de rastreamento de cargas e gerenciamento de frotas, com integração a sistemas de terceiros e APIs ",
+            "impact": "Sistema completo de gerenciamento de cargas e frotas, com integração a sistemas de terceiros e APIs, aumentando a eficiência operacional e a satisfação dos clientes.",
             "techs": [
-                "Java",
-                "RabbitMQ",
-                "React"
+                "React JS",
+                "Node JS",
+                "Sequelize ORM & PostgreSQL"
+            ],
+            "nda": true
+        },
+        {
+            "tag": "Sistema de controle de ponto - Servisá Guindastes",
+            "scale": "Participação em todos os modulos",
+            "title": "Desenvolvimento do sistema de controle de ponto - Servisá Guindastes",
+            "challenge": "Implementação dos modulos de controle de ponto, gestão de colaboradores e relatórios.",
+            "solution": "Aplicação de controle de ponto com integração a sistemas de terceiros e APIs.",
+            "impact": "Sistema completo de controle de ponto, com integração a sistemas de terceiros e APIs, aumentando a eficiência operacional e a satisfação dos clientes.",
+            "techs": [
+                "React JS",
+                "Node JS",
+                "Sequelize ORM & PostgreSQL"
+            ],
+            "nda": true
+        },
+        {
+            "tag": "Aplicativo Vexsoft IOS",
+            "scale": "Participação em todos os modulos",
+            "title": "Desenvolvimento do aplicativo Vexsoft para iOS",
+            "challenge": "Implementação de funcionalidades específicas para iOS, incluindo integração com APIs nativas.",
+            "solution": "Desenvolvimento de uma aplicação nativa para iOS utilizando Swift e integração com serviços RESTful.",
+            "impact": "Aplicativo Vexsoft para iOS com interface intuitiva e desempenho otimizado, aumentando a satisfação dos usuários.",
+            "techs": [
+                "React Native",
+                "RESTful APIs"
+            ],
+            "nda": true
+        },
+        {
+            "tag": "Aplicativo Vexsoft Portarias",
+            "scale": "Participação em todos os modulos",
+            "title": "Desenvolvimento do sistema de gerenciamento de portarias Vexsoft",
+            "challenge": "Implementação dos modulos de controle de acesso, registro de visitantes e integração com sistemas de segurança.",
+            "solution": "Aplicação de controle de acesso e registro de visitantes, com integração a sistemas de segurança e APIs.",
+            "impact": "Sistema completo de gerenciamento de portarias, com integração a sistemas de segurança e APIs, aumentando a eficiência operacional e a segurança.",
+            "techs": [
+                "React JS",
+                "Node JS",
+                "Sequelize ORM & PostgreSQL"
+            ],
+            "nda": true
+        },
+        {
+            "tag": "Plataforma Nossa Senhora das Dores",
+            "scale": "Participação em todos os modulos",
+            "title": "Desenvolvimento da plataforma Nossa Senhora das Dores",
+            "challenge": "Implementação dos modulos de cadastro de psicólogos, agendamento de consultas e integração com sistemas de pagamento.",
+            "solution": "Aplicação de agendamento de consultas e cadastro de psicólogos, com integração a sistemas de pagamento e APIs.",
+            "impact": "Plataforma completa de intermediação entre psicólogos e pacientes católicos, aumentando a eficiência operacional e a satisfação dos usuários.",
+            "techs": [
+                "NEXT JS",
+                "Node.js",
+                "PostgreSQL"
+            ],
+            "nda": false
+        },
+        {
+            "tag": "Aplicativo Gesuas assistencia social",
+            "scale": "Participação em todos os modulos",
+            "title": "Desenvolvimento do sistema de gestão de consultórios",
+            "challenge": "Implementação dos modulos de agendamento, prontuário eletrônico e integração com sistemas de pagamento.",
+            "solution": "Aplicação de gestão de consultórios, com integração a sistemas de pagamento e APIs.",
+            "impact": "Sistema completo de gestão de consultórios, com integração a sistemas de pagamento e APIs, aumentando a eficiência operacional e a satisfação dos usuários.",
+            "techs": [
+                "React JS",
+                "Node JS",
+                "Sequelize ORM & PostgreSQL"
             ],
             "nda": true
         }
