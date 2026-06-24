@@ -178,84 +178,75 @@
             "tag": "Sistema WebCol",
             "scale": "Participação em todos os modulos",
             "title": "Desenvolvimento do sistema de gerenciamento de carga e frotas WebCol",
+            "url": "https://webcol.systems/",
             "challenge": "Implementação dos modulos de nota fiscal, rastreamento, agendamento.",
-            "solution": "Aplicação de rastreamento de cargas e gerenciamento de frotas, com integração a sistemas de terceiros e APIs ",
-            "impact": "Sistema completo de gerenciamento de cargas e frotas, com integração a sistemas de terceiros e APIs, aumentando a eficiência operacional e a satisfação dos clientes.",
+            "solution": "Aplicação de rastreamento de cargas e gerenciamento de frotas, com integração a sistemas de terceiros e APIs.",
+            "impact": "Sistema completo de gerenciamento de cargas e frotas, aumentando a eficiência operacional.",
             "techs": [
                 "React JS",
                 "Node JS",
                 "Sequelize ORM & PostgreSQL"
             ],
-            "nda": true
+            "nda": false
         },
         {
-            "tag": "Sistema de controle de ponto - Servisá Guindastes",
+            "tag": "App Gesuas Mobile",
             "scale": "Participação em todos os modulos",
-            "title": "Desenvolvimento do sistema de controle de ponto - Servisá Guindastes",
-            "challenge": "Implementação dos modulos de controle de ponto, gestão de colaboradores e relatórios.",
-            "solution": "Aplicação de controle de ponto com integração a sistemas de terceiros e APIs.",
-            "impact": "Sistema completo de controle de ponto, com integração a sistemas de terceiros e APIs, aumentando a eficiência operacional e a satisfação dos clientes.",
+            "title": "Desenvolvimento do aplicativo mobile Gesuas para gestão socioassistencial",
+            "url": "https://play.google.com/store/apps/details?id=com.jungle.gesuasmobile&hl=pt_BR",
+            "challenge": "Digitalizar e operacionalizar o trabalho de campo do SUAS, garantindo acesso rápido e seguro às informações em ambientes externos.",
+            "solution": "Aplicativo mobile integrado à plataforma Gesuas, permitindo registro de atendimentos, consultas e acompanhamento em tempo real diretamente em campo.",
+            "impact": "Ampliação da capacidade operacional de técnicos em +200 municípios, levando a gestão socioassistencial para mobilidade e aumentando a eficiência dos atendimentos.",
             "techs": [
-                "React JS",
-                "Node JS",
-                "Sequelize ORM & PostgreSQL"
+                "React Native",
+                "RESTful APIs",
+                "Mobile Architecture"
             ],
-            "nda": true
+            "nda": false
         },
         {
             "tag": "Aplicativo Vexsoft IOS",
             "scale": "Participação em todos os modulos",
             "title": "Desenvolvimento do aplicativo Vexsoft para iOS",
-            "challenge": "Implementação de funcionalidades específicas para iOS, incluindo integração com APIs nativas.",
-            "solution": "Desenvolvimento de uma aplicação nativa para iOS utilizando Swift e integração com serviços RESTful.",
-            "impact": "Aplicativo Vexsoft para iOS com interface intuitiva e desempenho otimizado, aumentando a satisfação dos usuários.",
+            "url": "https://apps.apple.com/br/app/vexsoft/id6677058357",
+            "challenge": "Implementação de funcionalidades específicas para iOS.",
+            "solution": "Aplicação mobile com integração a APIs REST e foco em performance.",
+            "impact": "Melhoria significativa na operação de vistorias em campo.",
             "techs": [
                 "React Native",
                 "RESTful APIs"
             ],
-            "nda": true
+            "nda": false
         },
         {
             "tag": "Aplicativo Vexsoft Portarias",
             "scale": "Participação em todos os modulos",
             "title": "Desenvolvimento do sistema de gerenciamento de portarias Vexsoft",
-            "challenge": "Implementação dos modulos de controle de acesso, registro de visitantes e integração com sistemas de segurança.",
-            "solution": "Aplicação de controle de acesso e registro de visitantes, com integração a sistemas de segurança e APIs.",
-            "impact": "Sistema completo de gerenciamento de portarias, com integração a sistemas de segurança e APIs, aumentando a eficiência operacional e a segurança.",
+            "url": "https://play.google.com/store/apps/details?id=com.vexportarias&hl=pt_BR",
+            "challenge": "Controle de acesso e integração com sistemas de segurança.",
+            "solution": "Sistema completo de portaria digital com registro e monitoramento.",
+            "impact": "Aumento da segurança e eficiência operacional.",
             "techs": [
                 "React JS",
                 "Node JS",
-                "Sequelize ORM & PostgreSQL"
+                "PostgreSQL"
             ],
-            "nda": true
+            "nda": false
         },
         {
             "tag": "Plataforma Nossa Senhora das Dores",
             "scale": "Participação em todos os modulos",
             "title": "Desenvolvimento da plataforma Nossa Senhora das Dores",
-            "challenge": "Implementação dos modulos de cadastro de psicólogos, agendamento de consultas e integração com sistemas de pagamento.",
-            "solution": "Aplicação de agendamento de consultas e cadastro de psicólogos, com integração a sistemas de pagamento e APIs.",
-            "impact": "Plataforma completa de intermediação entre psicólogos e pacientes católicos, aumentando a eficiência operacional e a satisfação dos usuários.",
+            "url": "https://pnsd.com.br/",
+            "challenge": "Cadastro, agendamento e pagamentos.",
+            "solution": "Plataforma completa de intermediação com foco no público católico.",
+            "impact": "Primeira solução do nicho no Brasil.",
             "techs": [
                 "NEXT JS",
                 "Node.js",
                 "PostgreSQL"
             ],
             "nda": false
-        },
-        {
-            "tag": "Aplicativo Gesuas assistencia social",
-            "scale": "Participação em todos os modulos",
-            "title": "Desenvolvimento do sistema de gestão de consultórios",
-            "challenge": "Implementação dos modulos de agendamento, prontuário eletrônico e integração com sistemas de pagamento.",
-            "solution": "Aplicação de gestão de consultórios, com integração a sistemas de pagamento e APIs.",
-            "impact": "Sistema completo de gestão de consultórios, com integração a sistemas de pagamento e APIs, aumentando a eficiência operacional e a satisfação dos usuários.",
-            "techs": [
-                "React JS",
-                "Node JS",
-                "Sequelize ORM & PostgreSQL"
-            ],
-            "nda": true
         }
     ]
 }
